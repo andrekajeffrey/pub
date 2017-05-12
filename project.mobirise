@@ -26,7 +26,8 @@
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 1
+    "uniqCompNum": 1,
+    "google-analytics": "UA-99013333-1"
   },
   "pages": {
     "index.html": {
