@@ -27,7 +27,7 @@
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 5,
+    "uniqCompNum": 6,
     "google-analytics": "UA-99013333-1"
   },
   "pages": {
@@ -121,6 +121,9 @@
         },
         {
           "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
           "_name": "gallery3",
           "_params": {
             "paddingTop": 1,
@@ -131,9 +134,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/liggend-naakt-op-bed-2000x2967-800x1186.png",
-                "image": "@PROJECT_PATH@/assets/images/liggend-naakt-op-bed-2000x2967.png",
-                "caption": "liggend naakt",
+                "thumb": "@PROJECT_PATH@/assets/images/cartons-watch-1-2000x1378-800x551.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cartons-watch-1-2000x1378.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -141,9 +144,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kerkpilaren-vosselaar-2000x2910-800x1164.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kerkpilaren-vosselaar-2000x2910.jpg",
-                "caption": "kerk<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/console-2-2000x1698-800x679.jpg",
+                "image": "@PROJECT_PATH@/assets/images/console-2-2000x1698.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -151,19 +154,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/puntjes-en-lijnen-kerstmis-2000x2964-800x1185.png",
-                "image": "@PROJECT_PATH@/assets/images/puntjes-en-lijnen-kerstmis-2000x2964.png",
-                "caption": "puntjes en lijnen met kerstmis",
-                "active": false
-              },
-              {
-                "tags": "Tekeningen",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kerk-ekkergem-2-2000x3025-800x1210.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kerk-ekkergem-2-2000x3025.jpg",
-                "caption": "kerk",
+                "thumb": "@PROJECT_PATH@/assets/images/console-1-2000x1479-800x591.jpg",
+                "image": "@PROJECT_PATH@/assets/images/console-1-2000x1479.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -173,7 +166,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/de-hoogteput-2000x1467-800x586.jpg",
                 "image": "@PROJECT_PATH@/assets/images/de-hoogteput-2000x1467.jpg",
-                "caption": "hoogteput",
+                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -181,9 +174,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cartons-watch-1-2000x1378-800x551.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cartons-watch-1-2000x1378.jpg",
-                "caption": "cartons watch 1",
+                "thumb": "@PROJECT_PATH@/assets/images/discobar-aaft-ou-moil-2000x1477-800x590.jpg",
+                "image": "@PROJECT_PATH@/assets/images/discobar-aaft-ou-moil-2000x1477.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -191,9 +184,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/amai-klote-tekening-2000x1493-800x597.jpg",
-                "image": "@PROJECT_PATH@/assets/images/amai-klote-tekening-2000x1493.jpg",
-                "caption": "klote tekening",
+                "thumb": "@PROJECT_PATH@/assets/images/jezus-2000x1310-800x524.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jezus-2000x1310.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -201,9 +194,49 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/binnenkant-2000x1467-800x586.jpg",
-                "image": "@PROJECT_PATH@/assets/images/binnenkant-2000x1467.jpg",
-                "caption": "binnenkant",
+                "thumb": "@PROJECT_PATH@/assets/images/kerk-1-2000x1506-800x602.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kerk-1-2000x1506.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/maximum-and-immediate-retaliation-2000x1453-800x581.jpg",
+                "image": "@PROJECT_PATH@/assets/images/maximum-and-immediate-retaliation-2000x1453.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/helaba-1-2000x3063-800x1225.jpg",
+                "image": "@PROJECT_PATH@/assets/images/helaba-1-2000x3063.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kerk-ekkergem-2-2000x3025-800x1210.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kerk-ekkergem-2-2000x3025.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tekeningen",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/liggend-naakt-op-bed-2000x2967-800x1186.jpg",
+                "image": "@PROJECT_PATH@/assets/images/liggend-naakt-op-bed-2000x2967.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -213,7 +246,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/kerk-ekkergem-2000x3107-800x1242.jpg",
                 "image": "@PROJECT_PATH@/assets/images/kerk-ekkergem-2000x3107.jpg",
-                "caption": "kerk",
+                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -221,9 +254,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vegen-op-gsm-bewerkt-2000x2956-800x1182.jpg",
-                "image": "@PROJECT_PATH@/assets/images/vegen-op-gsm-bewerkt-2000x2956.jpg",
-                "caption": "vegen",
+                "thumb": "@PROJECT_PATH@/assets/images/klote-tekening-2000x1493-800x597.jpg",
+                "image": "@PROJECT_PATH@/assets/images/klote-tekening-2000x1493.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -231,114 +264,91 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brt-2-2000x2800-800x1120.jpg",
-                "image": "@PROJECT_PATH@/assets/images/brt-2-2000x2800.jpg",
-                "caption": "brt 2",
+                "thumb": "@PROJECT_PATH@/assets/images/schetsboek-2-voor-en-achterkant-2000x1429-800x571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schetsboek-2-voor-en-achterkant-2000x1429.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
                 "tags": "Tekeningen",
                 "playVideo": false,
-                "videoUrl": "",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/grindcore-royalty-2000x2873-800x1149.jpg",
-                "image": "@PROJECT_PATH@/assets/images/grindcore-royalty-2000x2873.jpg",
-                "caption": "grindcore royalty",
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pingpong-swa-15-mei-2000x1935-800x774.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pingpong-swa-15-mei-2000x1935.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
                 "tags": "Tekeningen",
                 "playVideo": false,
-                "videoUrl": "",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/discobar-aaft-ou-moil-2000x1477-800x590.jpg",
-                "image": "@PROJECT_PATH@/assets/images/discobar-aaft-ou-moil-2000x1477.jpg",
-                "caption": "discobar aaft ou moil asek ont drooien ben in axe",
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kerkpilaren-vosselaar-2000x2910-800x1164.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kerkpilaren-vosselaar-2000x2910.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
                 "tags": "Tekeningen",
                 "playVideo": false,
-                "videoUrl": "",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kerk-1-2000x1506-800x602.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kerk-1-2000x1506.jpg",
-                "caption": "kerk",
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vegen-2000x2956-800x1182.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vegen-2000x2956.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
                 "tags": "Tekeningen",
                 "playVideo": false,
-                "videoUrl": "",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/maximum-and-immediate-retaliation-2000x1453-800x581.jpg",
-                "image": "@PROJECT_PATH@/assets/images/maximum-and-immediate-retaliation-2000x1453.jpg",
-                "caption": "maximum and immediate retaliation",
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/puntjes-en-lijnen-kerstmis-2000x2964-800x1185.jpg",
+                "image": "@PROJECT_PATH@/assets/images/puntjes-en-lijnen-kerstmis-2000x2964.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Tekeningen",
+                "tags": "Fotografie",
                 "playVideo": false,
-                "videoUrl": "",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/console-2-2000x1698-800x679.jpg",
-                "image": "@PROJECT_PATH@/assets/images/console-2-2000x1698.jpg",
-                "caption": "console",
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bel-gaat-niet-2000x1298-800x519.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bel-gaat-niet-2000x1298.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Tekeningen",
+                "tags": "Fotografie",
                 "playVideo": false,
-                "videoUrl": "",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tekening-5-2000x1310-800x524.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tekening-5-2000x1310.jpg",
-                "caption": "jezus<br>",
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/inkomhal-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/inkomhal-1-2000x1333.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Tekeningen",
+                "tags": "Fotografie",
                 "playVideo": false,
-                "videoUrl": "",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/console-2-2000x1698-800x679.jpg",
-                "image": "@PROJECT_PATH@/assets/images/console-2-2000x1698.jpg",
-                "caption": "console",
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/under-a-martinus-moon-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/under-a-martinus-moon-2000x3000.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Grafiek",
+                "tags": "Fotografie",
                 "playVideo": false,
-                "videoUrl": "",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/niet-afwissen-aub-2000x2823-800x1129.jpg",
-                "image": "@PROJECT_PATH@/assets/images/niet-afwissen-aub-2000x2823.jpg",
-                "caption": "niet afwissen a.u.b.<br>",
-                "active": true
-              }
-            ],
-            "spacing": 1,
-            "showText": true,
-            "filter": true,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "index-gallery3-1",
-          "articleLayout": false,
-          "allItem": ""
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wacht-he-2000x1091-800x436.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wacht-he-2000x1091.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
               {
                 "tags": "Grafisch Ontwerp",
                 "playVideo": false,
@@ -354,18 +364,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/deurklink-2-2000x3535-800x1414.jpg",
-                "image": "@PROJECT_PATH@/assets/images/deurklink-2-2000x3535.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Grafisch Ontwerp",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/deurklink-5-2000x3213-800x1285.jpg",
-                "image": "@PROJECT_PATH@/assets/images/deurklink-5-2000x3213.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/deurklink-1-2000x3535-800x1414.jpg",
+                "image": "@PROJECT_PATH@/assets/images/deurklink-1-2000x3535.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -380,32 +380,12 @@
                 "active": false
               },
               {
-                "tags": "Affiches",
+                "tags": "Grafisch Ontwerp",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/werkblad-affiche-pissgrave-vorum-degial-phrenelith-2000x2828-800x1131.jpg",
-                "image": "@PROJECT_PATH@/assets/images/werkblad-affiche-pissgrave-vorum-degial-phrenelith-2000x2828.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Affiches",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/witch-trail-gold-black-narcissus-affiche-2-2000x2828-800x1131.jpg",
-                "image": "@PROJECT_PATH@/assets/images/witch-trail-gold-black-narcissus-affiche-2-2000x2828.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Fotografie",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x1298-800x519.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1298.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pissgrave-vorum-degial-phrenelith-affiche-2000x2828-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pissgrave-vorum-degial-phrenelith-affiche-2000x2828.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -414,60 +394,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/witch-trail-2000x1892-800x756.jpg",
-                "image": "@PROJECT_PATH@/assets/images/witch-trail-2000x1892.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/witch-trail-gold-black-narcissus-affiche-2000x2828-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/witch-trail-gold-black-narcissus-affiche-2000x2828.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Fotografie",
+                "tags": "Grafiek",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0292-filmrand-2000x1268-800x507.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0292-filmrand-2000x1268.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Fotografie",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wacht-eh-filmrand-2000x1299-800x519.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wacht-eh-filmrand-2000x1299.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Fotografie",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x1468-800x587.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1468.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Fotografie",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0259-bewerkt-2000x2417-800x966.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0259-bewerkt-2000x2417.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/niet-afwissen-aub-2000x2823-800x1129.jpg",
+                "image": "@PROJECT_PATH@/assets/images/niet-afwissen-aub-2000x2823.jpg",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Fotografie",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/under-a-martinus-moon-2000x3000-800x1200.png",
-                "image": "@PROJECT_PATH@/assets/images/under-a-martinus-moon-2000x3000.png",
-                "caption": "Type caption here",
-                "active": false
               }
             ],
             "spacing": 1,
@@ -478,7 +418,7 @@
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery3-2",
+          "_anchor": "gallery3-5",
           "articleLayout": false,
           "allItem": "All"
         },
