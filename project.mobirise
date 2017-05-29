@@ -27,7 +27,7 @@
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 2,
+    "uniqCompNum": 5,
     "google-analytics": "UA-99013333-1"
   },
   "pages": {
@@ -97,7 +97,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hier-ben-ik-veilig-1400x1917.png",
+              "src": "@PROJECT_PATH@/assets/images/hier-ben-ik-veilig-1400x1917.jpg",
               "link": "",
               "alt": "",
               "title": "Haar",
@@ -116,7 +116,7 @@
             }
           },
           "title": "Jeffrey Andréka",
-          "text": "portfolio &nbsp; &nbsp;tekenkunst, fotografie &amp; grafisch ontwerp",
+          "text": "portfolio &nbsp; &nbsp;tekeningen, grafiek, fotografie &amp; grafisch ontwerp",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
         },
         {
@@ -304,6 +304,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/console-2-2000x1698-800x679.jpg",
                 "image": "@PROJECT_PATH@/assets/images/console-2-2000x1698.jpg",
                 "caption": "console",
+                "active": false
+              },
+              {
+                "tags": "Grafiek",
+                "playVideo": false,
+                "videoUrl": "",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/niet-afwissen-aub-2000x2823-800x1129.jpg",
+                "image": "@PROJECT_PATH@/assets/images/niet-afwissen-aub-2000x2823.jpg",
+                "caption": "niet afwissen a.u.b.<br>",
                 "active": true
               }
             ],
@@ -318,6 +328,206 @@
           "_anchor": "index-gallery3-1",
           "articleLayout": false,
           "allItem": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Grafisch Ontwerp",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/deurklink-1-komma-2-2000x2886-800x1154.jpg",
+                "image": "@PROJECT_PATH@/assets/images/deurklink-1-komma-2-2000x2886.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Grafisch Ontwerp",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/deurklink-2-2000x3535-800x1414.jpg",
+                "image": "@PROJECT_PATH@/assets/images/deurklink-2-2000x3535.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Grafisch Ontwerp",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/deurklink-5-2000x3213-800x1285.jpg",
+                "image": "@PROJECT_PATH@/assets/images/deurklink-5-2000x3213.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Grafisch Ontwerp",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/deurklink-4-2000x3523-800x1409.jpg",
+                "image": "@PROJECT_PATH@/assets/images/deurklink-4-2000x3523.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Affiches",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/werkblad-affiche-pissgrave-vorum-degial-phrenelith-2000x2828-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/werkblad-affiche-pissgrave-vorum-degial-phrenelith-2000x2828.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Affiches",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/witch-trail-gold-black-narcissus-affiche-2-2000x2828-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/witch-trail-gold-black-narcissus-affiche-2-2000x2828.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Fotografie",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x1298-800x519.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1298.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Grafisch Ontwerp",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/witch-trail-2000x1892-800x756.jpg",
+                "image": "@PROJECT_PATH@/assets/images/witch-trail-2000x1892.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Fotografie",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0292-filmrand-2000x1268-800x507.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0292-filmrand-2000x1268.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Fotografie",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wacht-eh-filmrand-2000x1299-800x519.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wacht-eh-filmrand-2000x1299.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Fotografie",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x1468-800x587.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1468.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Fotografie",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-0259-bewerkt-2000x2417-800x966.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-0259-bewerkt-2000x2417.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Fotografie",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/under-a-martinus-moon-2000x3000-800x1200.png",
+                "image": "@PROJECT_PATH@/assets/images/under-a-martinus-moon-2000x3000.png",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-2",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/received-2000x1500.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "VERDOMME",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "13/05/2015, 13u54<br><br>Joske Duchatoo<br>VERDOMME<div><br>Jeffrey</div><div>watte</div><div><br>Joske Duchatoo</div><div>Men nat koffiegruis op het noordelijk halfrond laten vallen</div><div><br>Jeffrey</div><div>noordelijk halfrond = de eikel van uw monster member?<br><br>Joske Duchatoo<br>Neen kieken, de geografische halfbol waar aldus ons vader én moederland op bevind<div><br></div><div>Jeffrey</div><div>Mieterse beschrijving, Duchatoo, maar ik snap bijgevolg nog altijd geen flikker flakker turnzaal kakker van wat gij bedoelt!</div><div><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Joske Duchatoo</span><br></div><div>Ik zal enige clarificatie ter verduidelijking zonder oponthoud per postkoe verzenden.</div><div><br>Jeffrey</div><div>Waarvoor dank...</div><div>*koeiengeloei op t gelijkvloers* Aanstonds spurt ik naar beneden!!!</div><div><br>Joske Duchatoo</div><div>Tel zeker de vlekken, ist geen priemgetal kunde beter wachten op de volgende.</div><div><br>Jeffrey</div><div>'t Zijn er 13,5... Just nie genoeg<br>Smos, tegen die postkoei der bakkes!<div><br>Joske Duchatoo</div><div>Flikflakkert hier men kaars uit zeg. Eet ze dan maar op, terwijl ge op uw honger van clarificatie zit.</div><div><br></div><div>Jeffrey</div><div>Interview by Quentin Tarantino with Pafke, Het Meest Konkrete Mafke:</div><div><br></div><div>QT: What is the problem Pafke?</div><div>Pafke: The problem is neuken in de keuken</div><div>QT: ???</div><div><br>Joske Duchatoo</div><div>Ja lap, haalt mijn vliegende schotel maar van de zolder, die kwieten taranto moet opgespeurd worden<br><div><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Jeffrey</span><br></div>Allee, kzal den Apollo 13,5 maar van onder t stof en de spauw vanonder uit halen om Quinten Tortilla te gaan zoeken in de kosmische sphincter genaamd Beerse... Da's ook altijd hetzelfde met die Botswanen hé.<div><br>Joske Duchatoo</div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Botswaan, baviaan of zeebaars, zowaar ik een postzegelverzamelaar ben, ik krijg ze wel te pakken!</span><br></div><div>Ze zijn groot onderhoud aant doen in den tuin, kutlawijt</div><div><br>Jeffrey</div><div>Zie maar dat ge niet teveel Botswaans woestijnstof inhaleert, heb gehoord dat ge daarvan wel eens een mieterse hoop cariës in de vagina van kunt krijgen, mits uw vagina één van de dentata-variant is.<br><br>Joske Duchatoo<br>Van cariës noch ander meubilair last, mijn nonkel is namelijk een tantetrekker<div><br></div><div>Jeffrey</div><div>Meubilair zegt die! Ik weet nog in den tijd dat wij met mijn 3de nonkel in 5 huizen tegelijk woonden. Lastig dat dat meubilair deed... Gans den infrastructuur onderruiven en menstrueren. Eén ware plaag!</div><div><br></div><div>Jeffrey</div><div>Waarom zoeken wij die Kwispel Tentoonstelling eigenlijk nu weer?</div><div><br></div><div>Joske Duchatoo</div><div>Voor onze boterham te smeren waarlijk. Das pas paté van het eerste knoopsgat, daar hebben die botsautobavianen twee draagtijden mee gevreten.<br><br>Jeffrey<br>Heb dat gisteren nog meegemaakt, plotsklaps smeert eenen schietkraamvaraan mij zonder boter of margarine noch pardon op zijn suikerbrood.&nbsp;<div>Ik lag wel slecht, om niet te zeggen verschrikkelijk op zijn maag, want 2 of 25 minuten later lag ik te spartelen op zijn keukentegels tussen andere, minder konkrete mafkes die hij enkele lichtjaren eerder tot slachtoffer had gemaakt.<br><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Joske Duchatoo</span><br></div><div>Ik hoop dat ge dan wel daadwerkelijk zonder verpinken in het vervoegsel van die tegels zijt gekropen.</div><div>Dat krijgde er nooit meer af, behalve me een sponske en wat water.</div><div><br>Jeffrey</div><div>Vanwaar denkt gij dat ik in godsnaam verslag zit uit te brengen, kamelenracer? Het stinkt hier naar ketchup, aderverkalking en hopeloosheid...<br><br>Joske Duchatoo<br>Past op eh, ik heb ooit nog het groot lot gewonnen op&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">de kamelen derby. Lachen noch huilen kon die kermiskikker bij het aanschouwen van mijn victorie, die ik bovendien luidkeels kraaide. En over ketchup gesprokkeld, ik ben ook nog kwiek ter land, ter zee en in de lucht..</span><p><br>Jeffrey</p><p>En wat zijt ge met dat lot gaan doen? Een zoetwaterpiraat gaan volpompen met uwe weinig potente zaad??? Hahahaha! Onnozel gieterke.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br>Joske Duchatoo</span><br></p><p>Die fabelachtige schat ligt ergens op een geheime lokaasie verborgen te wezen. Slechts weinigen hebben de kracht en de velo om erom te zoeken. Als de laatste schimmel van mijn gespierd karkas vervlogen is kan de zoektocht beginnen. En passant kan die Kwikkel Tarantula gevonden worden.</p><p><br>Jeffrey</p><p>Ik heb hier een velo'ke staan (nota bene gewonnen op de Sinksenfoor van '64), dat misschien wel in de kwalifikaasie valt die gij nodig hebt. Men moet er wel met hunner fikken ende klauwen vanaf blijven, anders pis ik met mijn etterend lid op hun schoenen...</p><p>Ik zweer op het graf van mijn derde nonkel dat Quantum Toetertoeter nooit gevonden zal worden!!<br><br>Joske Duchatoo<br>Gij zijt niet eens bekwaam om de jacht op een voetbal tot één of twee goeie eindes te brengen. Meer of eerder minder bepaald, zelfs met een vers paar sokken rond uw vernikkelde kapodasters geraakt gij het hoekske nog niet om.</p><p></p><div><br></div><div>Jeffrey</div><div>Och gij... Gij bouillon-slurpend stuk venijn. Hoe durft ge mijn kapodasters in twijfel trekken? Zij hebben nog kruistochten en commissions in de Lidl gedaan. Hoe is dat nu toch mogelijk... Die pafke's van tegenwoordig hebben overal respect voor. Zullen we erom wedijveren? Morgen, 33 augustus op de noene, onder de grootste pisbloem van t Waasland daag ik u uit.<br><br>Joske Duchatoo<div>Och gij! Ik zal u neersabelen met een frans brood, zelfs met een kongolees brood uit zaïre alst moet. Die woorden zult ge terug inslikken, achterstevoren en binnestebuiten langs uw zevende knoopsgat.</div><div><br></div><div>Jeffrey</div><div>Ik heb maar 6 knoopsgaten, openingkruiper. En dat van dat brood kunt ge ook al op uwe knoesel schrijven, die ik en passant over het muurke werp. Ge moet er nie achter gaan zoeken want 'k heb hem godverdomme een 3 en halve steenworp ver gesmeten.</div><div><br></div><div>Joske Duchatoo</div><div>Uw katastrofes moet ik niet hebben. En passant, volgens de laatste berichten is die niet neuker in de niet keuken met zijn voltallig gezelschap genoteerd in de trein van half zeven naar steendorp. Het lijkt mij een grove belediging aan de rechtvaardigheid van de scheefpoeperij als we die trein niet kapen en meneer tartaarsaus laten vervluchten in de smatmosfeer.</div><div><br>Jeffrey</div><div>Awel wat zitten wij hier nog godverdomme te blaffeturen over knoopsgaten en kapodasters. Begeeft u zo traag mogelijk naar de loods waar de Drugsmobiel staat, en zoekt als ge wilt ook een aderke voor mij, ik ben de laatste tijd nogal slecht van gehoor... Dan zullen wij meneer Tortellini is een flesje fleren dat hij direct vergeten is!!</div><div><br>Jeffrey</div><div>Terwijl gij mijn aderke zoekt ga ik nog rap efkes braken.</div><div><br>Joske Duchatoo</div><div>Moestek nog trager onder de weg zijn ging ik achteruit. In alle haast schuifel ik aldus naar de loods van dienst. Aders vinden is niet mijn specialiteit, ik ben trouwens zelf mijn hond kwijt.</div><div><br></div><div>Jeffrey</div><div>Wanneer hebt u geen aders gevonden, voor of na dat ge in uw eigen onnozele rug gebeten had? Nondepitjes, nu staan wij hier nog te kadjoeberen. We moesten al lang in Drugsmobiel, ook wel de Negende Wolk genoemd, zitten onderweg naar Steendorp alwaar wij die venijntrein onderscheppen waar die lapzwansige rabauw zich op bevindt ende existeert onder andere wezens der aardkloot.</div><div><br>Jeffrey</div><div>Passeren wij Kruibeke efkens? Ik zou graag het graf van wijlen huisvlieg Amedee bezoeken.</div><div><br></div><div>Joske Duchatoo</div><div>Sinds onzen blackie zijn biezen en kollektie worteltaarten gepakt heeft zijn al men aders zoek. Volgens de stemmen in mijn krakkemikkige schedelpan is die kwakkelpiraat al van de dansvloer verdwenen, en aldus zijn onze pogingen teniet gedaan en rijp voor de suikerheuvel. Alsnog kan het stoffelijke overschot van het kwijlende vliegend huis nog bezocht worden.</div><div><br></div><div>Jeffrey</div><div>Jawadde... Die stemmen in uw panneke zijn nog nooit de mist in gegaan. Ik stel ende leg voor dat wij het gerecommendeerde staminee De Dikken Boom te Gent bezoeken, om onze vreugde en euforie weg te zuipen. Daar hangt een kunstwerkske zo schoon dat ik er al menig traan ende snottepiet bij weg heb gepinkt.&nbsp;</div></div><p></p></div></div></div></div></div></div>"
         }
       ]
     },
